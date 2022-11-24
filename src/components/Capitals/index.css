@@ -15,5 +15,21 @@
   padding: 30px;
 }
 .country {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
+  font-weight: bold;
+  font-size: 20px;
 }
+.question-container {
+  display: flex;
+}
+.capital-select {
+  height: 30px;
+  width: 150px;
+  margin-top: 18px;
+  margin-right: 10px;
+  font-weight: bold;
+  color: #323f4b;
+}
+/* .question {
+  padding-bottom: 40px;
+} */
