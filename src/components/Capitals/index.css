@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container {
+  background-color: #f8fafc;
+  height: 40vh;
+  width: 35vw;
+  border-radius: 8px;
+  padding: 30px;
+}
+.country {
+  margin-bottom: 30px;
+}
